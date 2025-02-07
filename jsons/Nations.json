@@ -1,18 +1,21 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Cherkess",
+		"leaderName": "Ashram",
+		"adjective": ["Cherkess"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Hail king Ashram",
+		"startIntroPart2": "Fearsome General, your mighty hordes are at your command, waiting to crush your foes once again and to conquer all the riches the world has to offer! Will your new empire shine through the ages of history?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
+		"attacked": "Traitorous man! The Cherkess peoples will not stand for such wanton abuse and slander - I shall have your balls!",
+		"defeated": "Vile ruler, know you have won this war in name alone. Your cities lie buried and your troops defeated. I have my own victory.",
+		"introduction": "I am Ashram, King of the Celts. Let no-one underestimate me!",
+		"tradeRequest": "Let us join our forces together and reap the rewards.",
+
+		"neutralHello": "God has given good to you.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -29,10 +32,8 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
+		"favoredReligion": "Islam",
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Aldana", "Anost", "Cherkessk"]
 	}
 ]
