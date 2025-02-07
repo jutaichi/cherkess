@@ -19,7 +19,7 @@
 		"name": "Kabardian_Keshik",
 		"unitType": "Archery",
 		"replaces": "Knight",
-		"uniqueTo": "Mongolia",
+		"uniqueTo": "Cherkess",
 		"range": 2,
 		"movement": 5,
 		"strength": 17,
@@ -29,7 +29,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking"],
 		"promotions": ["Great Generals I", "Quick Study"],
 		"attackSound": "arrow"
 	},
@@ -45,7 +45,7 @@
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking"],
 		"promotions": ["[Cossack] ability"],
 		"attackSound": "horse"
 	},
