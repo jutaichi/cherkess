@@ -11,7 +11,7 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", ],
+		"uniques": ["Can move after attacking"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
