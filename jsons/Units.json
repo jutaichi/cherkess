@@ -16,7 +16,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Kabardian Keshik",
+		"name": "Kabardian_Keshik",
 		"unitType": "Archery",
 		"replaces": "Knight",
 		"uniqueTo": "Mongolia",
@@ -34,7 +34,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Kabardian Cossack",
+		"name": "Kabardian_Cossack",
 		"unitType": "Mounted",
 		"replaces": "Cavalry",
 		"uniqueTo": "Cherkess",
