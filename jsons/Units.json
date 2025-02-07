@@ -13,6 +13,7 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking"],
 		"hurryCostModifier": 20,
+		"promotions": ["Quick Study"],
 		"attackSound": "horse"
 	},
 	{
@@ -22,7 +23,7 @@
 		"uniqueTo": "Cherkess",
 		"range": 2,
 		"movement": 5,
-		"strength": 17,
+		"strength": 20,
 		"rangedStrength": 18,
 		"cost": 120,
 		"requiredTech": "Chivalry",
