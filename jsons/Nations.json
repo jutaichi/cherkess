@@ -33,7 +33,8 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"favoredReligion": "Islam",
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "Cherkess Destiny",
+		"uniques": ["Double quantity of [Horses] produced", "[+100]% Strength <when defending> <for [Mounted] units>", "Units ignore terrain costs when moving into any tile with Hills","No Maintenance costs for improvements in [Hill] tiles"],
 		"cities": ["Aldana", "Anost", "Cherkessk"]
 	}
 ]
