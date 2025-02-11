@@ -34,7 +34,7 @@
 		"innerColor": [255,200,200],
 		"favoredReligion": "Islam",
 		"uniqueName": "Cherkess Destiny",
-		"uniques": ["Double quantity of [Horses] produced", "[+100]% Strength <when defending> <for [Mounted] units>", "Units ignore terrain costs when moving into any tile with Hills","No Maintenance costs for improvements in [Hill] tiles", "Starts with [Animal Husbandry]","Provides a [Granary] in your first [4] cities for free <upon discovering [Pottery] technology>"],
+		"uniques": ["Double quantity of [Horses] produced", "[+100]% Strength <when defending> <for [Mounted] units>", "Units ignore terrain costs when moving into any tile with Hills","No Maintenance costs for improvements in [Hill] tiles", "Starts with [Animal Husbandry]","Provides a [Granary] in your first [4] cities for free <after discovering [Pottery] technology>"],
 		"cities": ["Aldana", "Anost", "Cherkessk"]
 	}
 ]
